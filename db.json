@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": "9d9a",
+      "name": "testess",
+      "budget": "12345",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 1357,
+      "services": [
+        {
+          "name": "Miguel Sabino De Souza",
+          "cost": "123",
+          "description": "asdasdsa",
+          "id": "8f3f2741-c172-49b3-80fa-f773da7d2b71"
+        },
+        {
+          "name": "asdsadsa",
+          "cost": "1234",
+          "description": "asdsada",
+          "id": "c129f2f1-fe77-4468-ba1f-174a1651276d"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
